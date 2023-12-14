@@ -1,0 +1,1 @@
+Kalo mau nyoba packagenya coba jalankan "pip install ." di terminalmu lalu coba file bernama nyoba.py di terminalmu.

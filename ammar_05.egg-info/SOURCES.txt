@@ -1,0 +1,8 @@
+setup.py
+ammar_05/__init__.py
+ammar_05/guess_number.py
+ammar_05/weight_conversion.py
+ammar_05.egg-info/PKG-INFO
+ammar_05.egg-info/SOURCES.txt
+ammar_05.egg-info/dependency_links.txt
+ammar_05.egg-info/top_level.txt
